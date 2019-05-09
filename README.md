@@ -1,3 +1,3 @@
 # React-Plaza
 
-Just a repository where I add some snippets of React where I play with new features and assess what I know  
+Just a repository where I add some snippets of React and I play with new features and assess what I know  
